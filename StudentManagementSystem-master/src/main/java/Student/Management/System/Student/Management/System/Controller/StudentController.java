@@ -23,6 +23,7 @@ import Student.Management.System.Student.Management.System.service.StudentServic
 @CrossOrigin(origins = "*")
 public class StudentController {
     
+    
     @Autowired
     private StudentService studentService;
 
